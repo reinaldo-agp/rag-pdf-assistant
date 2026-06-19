@@ -53,4 +53,4 @@ Demonstrates the architecture without requiring API keys. Swapping to Llama 3 or
 
 ---
 
-Built by [Reinaldo Aguilera](https://www.linkedin.com/in/reinaldo-agp) · Systems Engineer → ML Engineer
+Built by [Reinaldo Guerrero](https://www.linkedin.com/in/reinaldo-agp) · Systems Engineer → ML Engineer
